@@ -1,0 +1,3 @@
+La tarea consiste en básicamente en crear un modelo de datos que me permita consultar las direcciones que tienen los arrendatarios, 
+que vendrían siendo la dirección de los departamentos en arriendo para así (en un futuro proyecto) controlar los arrendatarios que 
+pagan de los que no.
